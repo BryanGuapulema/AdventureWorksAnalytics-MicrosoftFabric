@@ -46,7 +46,7 @@ El objetivo es integrar datos comerciales de *Adventure Works* provenientes de m
 ---
 
 ## 🏁 Resultados
-- ETL automatizado y documentado dentro de Fabric.  
+- Proyecto end-to-end automatizado y documentado dentro de Fabric.  
 - Modelo dimensional limpio y validado con auditoría.  
 - Dashboards gerenciales con indicadores accionables.  
 - Solución 100% implementada con **servicios gratuitos de Fabric**.  
@@ -54,5 +54,4 @@ El objetivo es integrar datos comerciales de *Adventure Works* provenientes de m
 ---
 
 ## 👨‍💻 Autor
-**Bryan Guapulema**  
-Proyecto académico – 2025  
+**Bryan Guapulema- 2025**  
