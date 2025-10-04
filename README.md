@@ -9,11 +9,11 @@ El objetivo es integrar datos comerciales de *Adventure Works* provenientes de d
 ## ⚙️ Requisitos técnicos
 - **Plataforma:** Microsoft Fabric  
 - **Fuentes de datos:**
-  - Archivos **CSV** desde GitHub (Customers, Employees, Orders, Products, etc.)  
-  - Base de datos **MySQL** (tabla *Stores*)  
-  - Archivo **Excel** (presupuestos por tienda)
+  - **API**: archivos CSV consumidosdesde GitHub (Customers, Employees, Orders, Products, etc.)  
+  - **Base de datos MySQL**: tabla *Stores*
+  - **Archivo Excel**: presupuestos por tienda (storesBudget)
 - **Transformaciones:** realizadas mediante **Dataflows Gen2** y **Notebooks PySpark**  
-- **Carga:** archivos (capa Bronze) y tablas Delta(capas Silver y Gold) en Lakehouse. 
+- **Carga:** archivos (capa Bronze) y tablas Delta(capas Silver y Gold) en Lakehouse dentro de **`OneLake`**. 
 - **Visualización:** dashboards gerenciales en Power BI integrados en Fabric  
 
 ---
@@ -58,7 +58,7 @@ Para lograrlo, la compañía busca aprovechar la **analítica de datos** para:
 
 ## 📊 Dashboards gerenciales
 
-| Dashboard | Objetivo | Principales KPIs |
+| Dashboard | Objetivo |  KPIs |
 |------------|-----------|------------------|
 | **Ejecutivo** | Resumen de ventas, margen y cumplimiento de presupuesto | Ventas totales, % cumplimiento, margen global |
 | **Productos y Categorías** | Análisis del portafolio de productos | Ventas por categoría, rentabilidad, top 10 productos |
