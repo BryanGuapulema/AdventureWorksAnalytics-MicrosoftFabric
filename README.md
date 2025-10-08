@@ -90,6 +90,22 @@ https://app.fabric.microsoft.com/groups/4ed7945f-ed35-4eb6-9deb-814d2fe747e0/rep
 
 ---
 
+## Recursos
+
+<ul>
+  <li>
+    <a href='https://github.com/BryanGuapulema/AW_data_csv'>
+      Fuentes de datos CSV y Excel
+    </a>
+  </l1>
+  <li>
+    <a href='https://github.com/BryanGuapulema/Notebooks_Silver_Gold_DWH'>
+      Notebooks de carga DWH
+    </a>
+  </l1>
+</ul>
+
+---
 ## 👨‍💻 Autor
 **Bryan Guapulema - 2025**  
 ---
