@@ -44,7 +44,7 @@ Para lograrlo, la compañía busca aprovechar la **analítica de datos** para:
 
 
 ## 🛢️ Modelo de datos:
-<img src="esquemaestrella_ms_simplified.png" alt="ArquitecturaFabric">
+<img src="esquemaestrella_ms_simplified.png" alt="Esquema estrella">
 
 ---
 
@@ -58,19 +58,35 @@ Para lograrlo, la compañía busca aprovechar la **analítica de datos** para:
 
 ## 📊 Dashboards gerenciales
 
-| Dashboard | Objetivo |  KPIs |
-|------------|-----------|------------------|
-| **Ejecutivo** | Resumen de ventas, margen y cumplimiento de presupuesto | Ventas totales, % cumplimiento, margen global |
-| **Productos y Categorías** | Análisis del portafolio de productos | Ventas por categoría, rentabilidad, top 10 productos |
-| **Fuerza de Ventas y Tiendas** | Desempeño comercial por empleado y tienda | Ventas por vendedor, cumplimiento por tienda |
-| **Financiero y Rentabilidad** | Análisis de costos, impuestos y márgenes | Margen bruto, costos totales, rentabilidad neta |
+- Dashboard #1: Menú/Inicio
+
+<img src="Dashboard_Menu.PNG" alt="Dashboard_Menu">
+
+- Dashboard #2: Resumen Ejecutivo
+
+<img src="Dashboard_ResumenEjecutivo.PNG" alt="Dashboard_Menu">
+
+- Dashboard #3: Detalle Producto
+
+<img src="Dashboard_Productos.PNG" alt="Dashboard_Menu">
+
+- Dashboard #4: Detalle Tienda
+
+<img src="Dashboard_Tiendas.PNG" alt="Dashboard_Menu">
 
 ---
 ## 🏁 Resultados
-- Proyecto end-to-end automatizado y documentado dentro de Fabric.  
-- Modelo dimensional limpio y validado con auditoría.  
-- Dashboards gerenciales con indicadores accionables.  
-- Solución 100% implementada con **servicios gratuitos de Fabric**.  
+
+- Enlace de acceso al informe
+
+<a href='https://app.fabric.microsoft.com/groups/4ed7945f-ed35-4eb6-9deb-814d2fe747e0/reports/f9794bec-3b14-4099-8f5c-dff26d2b3095?ctid=3d285e75-2402-401a-aa82-b00278f48a41&pbi_source=linkShare'>
+https://app.fabric.microsoft.com/groups/4ed7945f-ed35-4eb6-9deb-814d2fe747e0/reports/f9794bec-3b14-4099-8f5c-dff26d2b3095?ctid=3d285e75-2402-401a-aa82-b00278f48a41&pbi_source=linkShare
+</a>
+
+- QR de acceso al informe
+
+<img src="QR_BG_AdventureWorks_Report.jpg" alt="https://app.fabric.microsoft.com/groups/4ed7945f-ed35-4eb6-9deb-814d2fe747e0/reports/f9794bec-3b14-4099-8f5c-dff26d2b3095?ctid=3d285e75-2402-401a-aa82-b00278f48a41&pbi_source=linkShare
+">
 
 ---
 
